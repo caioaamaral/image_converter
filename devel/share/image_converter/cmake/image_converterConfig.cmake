@@ -1,1 +1,0 @@
-/home/caioaamaral/vision_ws/devel/.private/image_converter/share/image_converter/cmake/image_converterConfig.cmake
