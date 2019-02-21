@@ -1,0 +1,6 @@
+devel_space: /home/caioaamaral/vision_ws/devel
+install: false
+install_space: /home/caioaamaral/vision_ws/install
+profile: default
+source_space: /home/caioaamaral/vision_ws/src
+workspace: /home/caioaamaral/vision_ws
