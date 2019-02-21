@@ -1,8 +1,0 @@
-prefix=/home/caioaamaral/vision_ws/devel
-
-Name: image_converter
-Description: Description of image_converter
-Version: 0.0.0
-Cflags: -I/home/caioaamaral/vision_ws/src/image_converter/include
-Libs: -L/home/caioaamaral/vision_ws/devel/lib -limage_converter
-Requires: cv_bridge image_transport roscpp sensor_msgs std_msgs

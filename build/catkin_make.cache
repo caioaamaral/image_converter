@@ -1,2 +1,0 @@
-image_converter
--DCATKIN_DEVEL_PREFIX=/home/caioaamaral/vision_ws/devel -DCMAKE_INSTALL_PREFIX=/home/caioaamaral/vision_ws/install -G Unix Makefiles
